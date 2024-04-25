@@ -1,0 +1,1 @@
+<script type="text/javascript">location.href="transaksi.php?stat=1"</script>
